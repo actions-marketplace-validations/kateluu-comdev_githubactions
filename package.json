@@ -1,5 +1,5 @@
 {
-  "name": "issue-notifier",
+  "name": "mytestting-issue-notifier",
   "version": "1.0.0",
   "description": "Automates sending a notification upon labeling of an issue",
   "main": "index.js",  
@@ -12,7 +12,7 @@
     "Actions",
     "Issues"
   ],
-  "author": "@kateluu-comdev",
+  "author": "@kalu",
   "license": "MIT",  
   "dependencies": {
     "@actions/core": "^1.2.6",
