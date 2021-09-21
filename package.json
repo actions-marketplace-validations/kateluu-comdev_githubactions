@@ -1,5 +1,5 @@
 {
-  "name": "mytestting-issue-notifier",
+  "name": "kalu-testing-issue-notifier",
   "version": "1.0.0",
   "description": "Automates sending a notification upon labeling of an issue",
   "main": "index.js",  
