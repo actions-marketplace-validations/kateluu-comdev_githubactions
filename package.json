@@ -2,14 +2,7 @@
   "name": "issue-notifier",
   "version": "1.0.0",
   "description": "Automates sending a notification upon labeling of an issue",
-  "main": "index.js",
-  /*
-  "scripts": {
-    "lint": "eslint index.js",
-    "package": "ncc build index.js -o dist",
-    "test": "eslint index.js && jest"
-  },
-  */
+  "main": "index.js",  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kateluu-comdev/githubactions.git"
@@ -20,13 +13,7 @@
     "Issues"
   ],
   "author": "@kateluu-comdev",
-  "license": "MIT",
-  /*
-  "bugs": {
-    
-  },
-  "homepage": "",
-  */
+  "license": "MIT",  
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/github": "^1.1.0",
